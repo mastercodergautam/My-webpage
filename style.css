@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(to bottom right,green,darkgreen,black);
+    text-align: center;
+   margin: 50px; 
+
+}
+#apps{
+    border: 10px solid yellow;
+    background-color: cornflowerblue;
+    margin: 50px;
+    border-radius: 20px;
+    padding: 20px;
+}
+#games{
+    border: 10px solid yellow;
+    background-color: cornflowerblue;
+    margin: 50px;
+    border-radius: 20px;
+    padding: 20px;
+}
+#chatbot{
+    border: 10px solid yellow;
+    background-color: cornflowerblue;
+    margin: 50px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.line{
+    width: 70px;
+    height: 6px;
+    margin: 8px auto;
+background-color: white;
+}
+span{
+    display: inline;
+    
+}
